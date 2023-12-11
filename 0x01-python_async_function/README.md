@@ -1,5 +1,5 @@
 # 0x01. Python - Async
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png)
+![](https://miro.medium.com/v2/resize:fit:400/1*9biAE6DdX-OPPaFS7BFzwQ.jpeg)
 This project contains tasks performed to understand the following concepts:
 - `async` and `await` syntax
 - How to execute an async program with `asyncio`
